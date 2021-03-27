@@ -8,7 +8,7 @@
 """
 
 
-def IsPrime2(n):
+def IsPrime(n):
     if n < 2:
         return False
     d = 2
